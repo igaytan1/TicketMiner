@@ -1,0 +1,10 @@
+User mickey mouse chose to view event prices for  'UTEP Basketball 20' with ID 33
+User mickey mouse wants to purchase 5 Gold tickets for 'UTEP Basketball 20' with ID 33
+User mickey mouse has $7755.05 dollars available to purchase VIP Tickets for 'UTEP Basketball 20' with ID 33
+User mickey mouse has successfully purchased Gold Tickets for 'UTEP Basketball 20' with ID 33
+User mickey mouse has $7602.05 available after completing transaction
+User mickey mouse chose to view event prices for  'UTEP Football 2' with ID 2
+User mickey mouse wants to purchase 2 Silver tickets for 'UTEP Football 2' with ID 2
+User mickey mouse has $7602.05 dollars available to purchase VIP Tickets for 'UTEP Football 2' with ID 2
+User mickey mouse has successfully purchased Silver Tickets for 'UTEP Football 2' with ID 2
+User mickey mouse has $7558.55 available after completing transaction
