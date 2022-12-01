@@ -1,7 +1,13 @@
 //Author: Isabella Gaytan
-//CS3331: Advanced Object-Oriented Programming
-//Dr. Daniel Mejia
-//PA2 - Auditorium Class
+//Advanced Object-Oriented Programming
+
+/*
+ * This class represents a type of Venue, Auditorium
+ * 
+ * @author Isabella
+ * @since October 25, 2022
+ */
+
 
 public class Auditorium extends Venue{
     
