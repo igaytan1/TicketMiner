@@ -1,9 +1,18 @@
 import java.util.HashMap;
 
 //Author: Isabella Gaytan
-//CS3331: Advanced Object-Oriented Programming
-//Dr. Daniel Mejia
-//PA2 - Customer Class
+//Advanced Object-Oriented Programming
+
+/*
+ * The Customer class creates customer objects from constructors and setters/getters.
+ * Additionally, this class updates customer attributes.
+ * 
+ * @author Isabella Gaytan
+ * 
+ * @since 2022-10-25
+ */
+
+
 
 public class Customer {
     //Attributes
@@ -29,7 +38,7 @@ public class Customer {
     
     //Constructors
     public Customer(){
-
+    
     }
 
     public Customer(String customerFirstNameIn, String customerLastNameIn, double moneyAvailableIn,
