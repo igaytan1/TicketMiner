@@ -1,7 +1,14 @@
 //Author: Isabella Gaytan
-//CS3331: Advanced Object-Oriented Programming
-//Dr. Daniel Mejia
-//PA4 - Autopurchasing Class
+//Advanced Object-Oriented Programming
+
+/*
+* The Autopurchasing class deals with implementing the autopurchases derived from the given files.
+*
+* @author Isabella Gaytan
+* 
+* @since 2022-10-25
+*/
+
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
